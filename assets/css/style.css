@@ -1,0 +1,122 @@
+@font-face {
+    font-family: dm sans;
+    src: url(/formation-développeur-web/startup-3/police/DMSans-VariableFont_opsz\,wght.ttf);
+}
+
+
+.nav ul{
+    list-style-type: none;
+    height: 26px;
+    width: 465px;
+    left: 688px;
+    margin-left: 1500px;
+    color: #333;
+
+}
+.nav ul li:first-child {
+    background-color: #25DAC5;
+    display: inline-block;
+    height: 26px;
+    padding: 5px;
+    color: #333;
+
+}
+main, h2{
+    margin-left: 5rem;
+    color: red;
+}
+
+.title-h1{
+    font-size: #1E0E62;
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    text-align: center;
+    font-size: 58px;
+}
+.started{
+    text-align: center;
+    width: 170px;
+    height: 60px;
+    top: 348px;
+    left: 615px;
+    background-color: #25DAC5;
+    border-radius: 30px;
+    margin-left: 45%;
+    line-height: 26px;
+}
+.get{
+    color: white;
+    text-align: center;
+    line-height: 26px;
+    font-size: 20px;
+    
+}
+
+.img-bloc{
+     width: 940px;
+     height: 541px;
+     left: 1000px;
+     margin: auto;
+     margin-top: 2rem;
+}
+.bloc .bloc1 p:last-child {
+    color: #db0000;
+    margin: 0 auto;
+    display: flex;
+    width: 1114px;
+    height: 133px;
+    top: 1087;
+    left: 143px;
+   
+}
+.bloc1{
+    display: inline-block;
+    font-size: 18px;
+    width: 315px;
+    height: 112px;
+    top: 1000;
+    left: 530;
+    padding: 2rem;
+    line-height: 28px;
+}
+
+
+.column1 {
+    display: inline-block;
+    margin: 2rem;
+}
+
+/**projet restaurant**/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contener-header {
+    width: 80%;
+}
+
+header {
+    background-color: #f2f2f2;
+}
+
+.column-1 {
+    width: 20%;
+}
+
+.column-2 {
+    width: 35%;
+}
+
+.column-3 {
+    width: 50%;
+}
+
+header .column-nav li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.column-nav ul {
+    margin-left: 60%;
+}
